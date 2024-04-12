@@ -32,4 +32,4 @@ def double_this(number):
     return double_number
 
 # Here starts the main program. From the main program you can call your functions.
-print(double_this(6))
+print(double_this(3))
